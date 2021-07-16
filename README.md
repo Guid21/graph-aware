@@ -24,12 +24,10 @@ Please, approach this task as you would approach a medium-size production applic
 
 **Submission**: Submission date is as per the email. Please share your work with us privately through a
 link on GitHub with the following users:
+
 ● smajl
-
 ● tonysmid
-
 ● palasjir
-
 ● miromarchi
 
 **Final Comments**: We truly appreciate you taking the time to complete this assignment. We do not want you to spend more than one evening on this. We are not looking for perfection. We are only curious about finding out more about your understanding of concepts we use daily at GraphAware. Please feel free to reach out if you have any doubts or questions.
